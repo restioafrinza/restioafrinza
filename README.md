@@ -1,12 +1,6 @@
 <a href="https://www.instagram.com/restio.afrinza/">
   <img align="left" alt="Restio Afrinza Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/res_tio_afrinza">
-  <img align="left" alt="Restio Afrinza | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://id.linkedin.com/in/restio-afrinza-973a3a14b">
-  <img align="left" alt="Restio Afrinza LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=restioafrinza)
 
