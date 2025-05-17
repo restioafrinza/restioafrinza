@@ -27,7 +27,7 @@
 📈 my github stats
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=restioafrinza&show_icons=true&theme=transparent" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=restioafrinza&show_icons=true&theme=gotham" width="400"/>
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=restioafrinza&theme=dark&hide_border=true" width="400">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=restioafrinza&layout=compact&theme=dark&hide_border=true" width="400">
 
